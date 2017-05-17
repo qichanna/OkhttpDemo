@@ -10,6 +10,12 @@
         android:text="Get"
         android:onClick="doGet"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Post"
+        android:onClick="doPost"/>
+
     <TextView
         android:id="@+id/id_tv_result"
         android:layout_width="wrap_content"
